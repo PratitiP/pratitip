@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Pratiti's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratitip&show_icons=true&layout=compact&theme=gotham&include_all_commits=true&hide_border=true)](https://github.com/pratitip)
+
+**Expand to View**
+<details>
+  <summary><b>:zap: GitHub Streak Stat</b></summary>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratitip" alt="Pratiti's Github Streak" />
+</details>
